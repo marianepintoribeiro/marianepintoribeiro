@@ -1,47 +1,45 @@
-# Hi, I'm Mariane Ribeiro 👋
+# Mariane Ribeiro
 
-🎓 Mathematics student at UNESP
-💻 Aspiring Data Engineer
-📊 Python | SQL | ETL/ELT | Data Modeling | Power BI
+Data Engineer | Data Analyst | Python | SQL | ETL/ELT
 
----
+🇧🇷 Português · 🇺🇸 English
 
-## 👩‍💻 About Me
+────────────────────────
 
-I'm a Mathematics student at UNESP with a strong interest in
-Data Engineering, Data Analytics and Business Intelligence.
+## 🇧🇷 Português
 
-I enjoy transforming raw data into structured, reliable and
-useful information that supports business decisions.
+Apresentação profissional
 
-Currently, I'm building my portfolio through projects involving
-data pipelines, SQL, Python, ETL/ELT, data modeling and cloud
-data platforms.
+Stack principal
 
----
+🏆 Principais conquistas
 
-## 🛠️ Tech Stack
+Como eu trabalho
 
-Python • SQL • Pandas • Airflow • Power BI
-Git • GitHub • Snowflake • Excel
+💼 Projetos em destaque
 
----
+🎓 Formação
 
-## 🚀 Featured Projects
+📚 Atualmente estudando
 
-📌 Data Engineering Pipeline
-📌 Database Modeling Portfolio
-📌 Sales Data Pipeline
-📌 Data Analysis Projects
+📫 Contato
 
----
+────────────────────────
 
-## 🎓 Education
+## 🇺🇸 English
 
-Bachelor's Degree in Mathematics — UNESP
+Professional introduction
 
----
+Core stack
 
-## 📫 Connect with me
+🏆 Key achievements
 
-LinkedIn | GitHub | Email
+How I work
+
+💼 Featured projects
+
+🎓 Education
+
+📚 Currently learning
+
+📫 Contact

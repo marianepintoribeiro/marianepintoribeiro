@@ -1,77 +1,105 @@
-Alana Rocha
-Senior Data Engineer & Tech Lead · Mentora de Dados
-🇧🇷 Português · 🇺🇸 English
+# Mariane Ribeiro
 
-🇧🇷 Português
-Sou Senior Data Engineer e Tech Lead, com mais de 6 anos de experiência construindo pipelines e arquiteturas de dados escaláveis que transformam dados brutos em decisões de negócio e resultados mensuráveis.
+### Data Engineer · Data Analytics
 
-Atuo de ponta a ponta — da definição da arquitetura até pipelines confiáveis em produção — sempre conectando decisões técnicas a impacto real de negócio. Já entreguei soluções em energia, finanças e tecnologia que geraram mais de $26M em impacto financeiro, unindo engenharia de dados a uma visão analítica orientada a negócio.
+[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
-Stack principal
+---
 
-Snowflake dbt Python Azure Prefect SQL Tableau JavaScript
+## 🇧🇷 Português
 
-🏆 Principais conquistas
-💰 Data-driven savings — +$24M em savings com dashboards de valuation de inventário (Tableau) e $2M identificados via otimização de modelos no Snowflake
-☁️ Liderança em migração para nuvem — arquitetura de migração on-premise → cloud com Snowflake, dbt para transformação e Prefect para orquestração
-⚙️ Inovação em pipelines — automação de pipelines ETL com Python e Azure, reduzindo tempo de processamento e aumentando eficiência operacional
-🔍 Resolução de problemas — identificação e correção de uma falha crítica de integração Salesforce ↔ DevOps, não detectada desde 2021
-👥 Mentoria — treinamento de mais de 70 pessoas em boas práticas, aumentando adoção de ferramentas e produtividade
-🏅 Reconhecimento — Outstanding with Distinction (programa ExxonMobil) e finalista em competição global de Data Analytics
-Como eu trabalho
-Mais do que dominar ferramentas, meu diferencial é traduzir problemas de negócio em soluções de engenharia — construindo sistemas escaláveis, confiáveis e feitos para durar.
+Sou estudante de Matemática na UNESP e profissional em desenvolvimento na área de Dados, com experiência em planejamento, análise de dados e desenvolvimento de soluções orientadas a processos e resultados de negócio.
 
-💼 Projetos em destaque
-Projeto-Postgres — Apostila prática de SQL do zero com PostgreSQL e DBeaver, dividida em módulos progressivos.
-dw_with_dbt — Pipeline de dados com extração via API (yfinance), transformação em dbt e visualização em Streamlit.
-Database_Architecture — Arquitetura de banco de dados MongoDB Atlas para um e-commerce.
-web_scrapping — Web scraping com Selenium para coletar dados históricos do petróleo Brent.
-SQL_TESTS — Exercícios práticos de SQL com SQLite3 e pandas.
-aprendizado_maquinas — Exercícios de machine learning do mestrado.
-TCC---Atividade-1 — Exercício acadêmico de regressão linear (mínimos quadrados).
-Atividade-2---TCC — Identificação de sistemas aplicada a um amplificador de potência via mínimos quadrados.
-🚀 Quer crescer na área de dados?
-Além da atuação técnica, fundei a Mentoria DZTI, voltada a profissionais que querem entrar ou se reposicionar na área de dados: construir projetos com padrão de mercado e se preparar para oportunidades internacionais.
+Minha trajetória combina raciocínio matemático, visão analítica e experiência prática em ambiente corporativo. Tenho desenvolvido projetos de Engenharia de Dados utilizando Python, SQL, Pandas e Apache Airflow, trabalhando com ingestão, transformação, validação, qualidade de dados e orquestração de pipelines, além de ferramentas como Snowflake, Azure Data Factory e Power BI.
 
-Se você quer sair da estagnação e ter clareza sobre os próximos passos da sua carreira, me manda uma mensagem — te explico como a mentoria pode ajudar.
+**Stack principal**
 
-🎯 Fazemos um diagnóstico de carreira gratuito para entender a melhor forma de te ajudar, além de explicar como funciona a mentoria individual. No fim da página tem um formulário e, ao concluir, você já agenda a chamada: Diagnóstico de carreira gratuito
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)](https://airflow.apache.org/) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)](https://www.snowflake.com/) [![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/products/data-factory) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 
-📫 LinkedIn · alanasarah01@gmail.com
+### 🏆 Principais conquistas
 
-🇺🇸 English
-Senior Data Engineer and Tech Lead with 6+ years building scalable data pipelines and architectures that turn raw data into business decisions and measurable results.
+* 📊 **Otimização de processos** — desenvolvimento e aprimoramento de um simulador utilizado em processos de formação de custos, contribuindo para uma redução de aproximadamente **70% no tempo de execução**.
 
-I work end-to-end — from architecture definition to reliable pipelines in production — always connecting technical decisions to real business impact. Across energy, finance, and tech sectors, I've delivered solutions generating $26M+ in financial impact by combining data engineering with an analytical, business-first mindset.
+* 📦 **Eficiência operacional** — otimização do processo de cálculo e utilização de materiais, contribuindo para uma **economia de aproximadamente 15% no volume de fita** utilizado.
 
-Core stack
+* ⚙️ **Automação e análise de dados** — desenvolvimento de soluções utilizando Excel, Python e Power BI para estruturar processos, automatizar análises e apoiar decisões de negócio.
 
-Snowflake dbt Python Azure Prefect SQL Tableau JavaScript
+* 🔄 **Construção de pipelines** — desenvolvimento de projetos de Engenharia de Dados utilizando **Python, Pandas e Apache Airflow**, estruturados em etapas de ingestão, transformação e validação.
 
-🏆 Key achievements
-💰 Data-driven savings — $24M+ through inventory valuation dashboards (Tableau) and $2M identified via Snowflake model optimization
-☁️ Cloud migration leadership — architected an on-premise → cloud migration using Snowflake, dbt for transformation, and Prefect for orchestration
-⚙️ Pipeline innovation — automated ETL pipelines with Python and Azure, cutting processing time and boosting operational efficiency
-🔍 Problem solving — identified and fixed a critical Salesforce ↔ DevOps integration failure undetected since 2021
-👥 Mentorship — trained 70+ people on best practices, increasing tool adoption and productivity
-🏅 Recognition — Outstanding with Distinction (ExxonMobil program) and finalist in a global Data Analytics competition
-How I work
-More than tools, my edge is translating business problems into engineering solutions — building systems that are scalable, reliable, and built to last.
+* 🔍 **Qualidade de dados** — aplicação de validações para identificar dados ausentes, registros duplicados, valores inválidos e inconsistências durante o processamento.
 
-💼 Featured projects
-Projeto-Postgres — Hands-on SQL-from-scratch guide using PostgreSQL and DBeaver, organized into progressive modules.
-dw_with_dbt — Data pipeline with API extraction (yfinance), dbt transformations, and a Streamlit visualization layer.
-Database_Architecture — MongoDB Atlas database architecture designed for an e-commerce use case.
-web_scrapping — Selenium-based web scraper collecting historical Brent oil price data.
-SQL_TESTS — Practical SQL exercises using SQLite3 and pandas.
-aprendizado_maquinas — Machine learning exercises from my master's coursework.
-TCC---Atividade-1 — Academic exercise on linear regression (least squares).
-Atividade-2---TCC — System identification applied to a power amplifier via least squares.
-🚀 Want to grow in data?
-Beyond my technical work, I founded Mentoria DZTI, focused on professionals looking to break into or pivot within the data field — helping them build market-standard projects and prepare for international opportunities.
+* 🎓 **Base quantitativa** — formação em Matemática na UNESP, desenvolvendo forte capacidade de raciocínio lógico, análise quantitativa e resolução estruturada de problemas.
 
-If you're ready to move past stagnation and get clarity on your next career step, send me a message — I'll walk you through how the mentorship can help.
+### Como eu trabalho
 
-🎯 We offer a free career diagnostic to understand the best way to help you, and to walk you through how the 1:1 mentorship works. At the end of the page there's a form, and once you fill it out you can book the call directly: Free career diagnostic
+Mais do que dominar ferramentas, meu diferencial é combinar raciocínio matemático, visão analítica e entendimento de negócio para transformar problemas em soluções orientadas por dados.
 
-📫 LinkedIn · alanasarah01@gmail.com
+Busco construir processos estruturados, automatizados e confiáveis — desde a organização e transformação dos dados até a geração de informações que possam apoiar decisões e gerar valor para o negócio.
+
+### 💼 Projetos em destaque
+
+* [**airflow-pipeline-project**](https://github.com/marianepintoribeiro/airflow-pipeline-project) — Pipeline de dados de vendas desenvolvido com Python, Pandas e Apache Airflow, estruturado nas etapas de ingestão, transformação e validação.
+
+* [**marianepintoribeiro**](https://github.com/marianepintoribeiro) — Profile README e portfólio central dos projetos e estudos desenvolvidos na área de dados.
+
+* **Database Modeling Portfolio** — projetos de estudo voltados à modelagem, organização e estruturação de dados para diferentes cenários de negócio.
+
+* **Data Analytics Portfolio** — projetos de análise de dados utilizando SQL, Python, Power BI e ferramentas de visualização para exploração de indicadores e geração de insights.
+
+### 🚀 Construindo minha carreira em dados
+
+Estou construindo meu portfólio com foco em Engenharia de Dados e Análise de Dados, buscando transformar minha formação em Matemática e minha experiência profissional em soluções cada vez mais estruturadas, automatizadas e orientadas por dados.
+
+Meu objetivo é atuar em ambientes onde eu possa combinar tecnologia, dados, raciocínio quantitativo e visão de negócio para resolver problemas reais e gerar impacto mensurável.
+
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [GitHub](https://github.com/marianepintoribeiro)
+
+---
+
+## 🇺🇸 English
+
+I am a Mathematics student at UNESP and an aspiring Data professional, with experience in planning, data analysis, and the development of process- and business-oriented solutions.
+
+My background combines mathematical reasoning, analytical thinking, and practical experience in a corporate environment. I have been developing Data Engineering projects using Python, SQL, Pandas, and Apache Airflow, working with data ingestion, transformation, validation, data quality, and pipeline orchestration, as well as tools such as Snowflake, Azure Data Factory, and Power BI.
+
+**Core stack**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)](https://airflow.apache.org/) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)](https://www.snowflake.com/) [![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/products/data-factory) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+### 🏆 Key achievements
+
+* 📊 **Process optimization** — developed and improved a simulator used in cost-formation processes, contributing to an approximately **70% reduction in execution time**.
+
+* 📦 **Operational efficiency** — optimized calculation and material-usage processes, contributing to an approximately **15% reduction in tape volume** used.
+
+* ⚙️ **Automation and data analytics** — developed solutions using Excel, Python, and Power BI to structure processes, automate analyses, and support business decisions.
+
+* 🔄 **Data pipeline development** — developed Data Engineering projects using **Python, Pandas, and Apache Airflow**, structured around ingestion, transformation, and validation stages.
+
+* 🔍 **Data quality** — implemented validations to identify missing data, duplicate records, invalid values, and inconsistencies during data processing.
+
+* 🎓 **Quantitative foundation** — Mathematics student at UNESP, developing strong skills in logical reasoning, quantitative analysis, and structured problem solving.
+
+### How I work
+
+More than mastering tools, my strength is combining mathematical reasoning, analytical thinking, and business understanding to turn problems into data-driven solutions.
+
+I aim to build structured, automated, and reliable processes — from organizing and transforming data to generating information that supports decision-making and creates business value.
+
+### 💼 Featured projects
+
+* [**airflow-pipeline-project**](https://github.com/marianepintoribeiro/airflow-pipeline-project) — Sales data pipeline developed with Python, Pandas, and Apache Airflow, structured into ingestion, transformation, and validation stages.
+
+* [**marianepintoribeiro**](https://github.com/marianepintoribeiro) — Profile README and central portfolio for my data projects and studies.
+
+* **Database Modeling Portfolio** — study projects focused on data modeling, organization, and structuring for different business scenarios.
+
+* **Data Analytics Portfolio** — data analysis projects using SQL, Python, Power BI, and visualization tools to explore KPIs and generate insights.
+
+### 🚀 Building my career in data
+
+I am building my portfolio with a focus on Data Engineering and Data Analytics, combining my Mathematics background and professional experience to develop increasingly structured, automated, and data-driven solutions.
+
+My goal is to work in environments where I can combine technology, data, quantitative reasoning, and business understanding to solve real-world problems and generate measurable impact.
+
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [GitHub](https://github.com/marianepintoribeiro)

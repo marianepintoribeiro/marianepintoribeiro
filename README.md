@@ -27,7 +27,7 @@ Minha trajetória combina raciocínio matemático, visão analítica e experiên
 
 * 📊 **Otimização de processos** — desenvolvimento e aprimoramento de um simulador utilizado em processos de formação de custos, contribuindo para uma redução de aproximadamente **70% no tempo de execução**.
 
-* 📦 **Eficiência operacional** — otimização do processo de cálculo e utilização de materiais, contribuindo para uma **economia de aproximadamente 15% no volume de fita** utilizado.
+* 📦 **Otimização de cálculos e consumo de materiais** — aprimoramento da lógica de um simulador utilizado na formação de custos de revestimento de tubos, com revisão dos parâmetros de entrada e da metodologia de cálculo, resultando em uma **redução de aproximadamente 15% no consumo estimado**.
 
 * ⚙️ **Automação e análise de dados** — desenvolvimento de soluções utilizando Excel, Python e Power BI para estruturar processos, automatizar análises e apoiar decisões de negócio.
 
@@ -41,7 +41,8 @@ Minha trajetória combina raciocínio matemático, visão analítica e experiên
 
 Mais do que dominar ferramentas, meu diferencial é combinar raciocínio matemático, visão analítica e entendimento de negócio para transformar problemas em soluções orientadas por dados.
 
-Busco construir processos estruturados, automatizados e confiáveis — desde a organização e transformação dos dados até a geração de informações que possam apoiar decisões e gerar valor para o negócio.
+Mais do que dominar ferramentas, meu diferencial é transformar problemas de negócio em **soluções de engenharia de dados estruturadas, automatizadas e confiáveis**, combinando raciocínio matemático, visão analítica e conhecimento técnico.
+
 
 ### 💼 Projetos em destaque
 
@@ -49,17 +50,13 @@ Busco construir processos estruturados, automatizados e confiáveis — desde a 
 
 * [**marianepintoribeiro**](https://github.com/marianepintoribeiro) — Profile README e portfólio central dos projetos e estudos desenvolvidos na área de dados.
 
-* **Database Modeling Portfolio** — projetos de estudo voltados à modelagem, organização e estruturação de dados para diferentes cenários de negócio.
-
-* **Data Analytics Portfolio** — projetos de análise de dados utilizando SQL, Python, Power BI e ferramentas de visualização para exploração de indicadores e geração de insights.
-
 ### 🚀 Construindo minha carreira em dados
 
 Estou construindo meu portfólio com foco em Engenharia de Dados e Análise de Dados, buscando transformar minha formação em Matemática e minha experiência profissional em soluções cada vez mais estruturadas, automatizadas e orientadas por dados.
 
 Meu objetivo é atuar em ambientes onde eu possa combinar tecnologia, dados, raciocínio quantitativo e visão de negócio para resolver problemas reais e gerar impacto mensurável.
 
-📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [GitHub](https://github.com/marianepintoribeiro)
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mp.ribeiro@unesp.br)
 
 ---
 
@@ -77,7 +74,7 @@ My background combines mathematical reasoning, analytical thinking, and practica
 
 * 📊 **Process optimization** — developed and improved a simulator used in cost-formation processes, contributing to an approximately **70% reduction in execution time**.
 
-* 📦 **Operational efficiency** — optimized calculation and material-usage processes, contributing to an approximately **15% reduction in tape volume** used.
+* 📦 **Calculation and material consumption optimization** — improved the logic of a simulator used for pipe coating cost estimation by reviewing input parameters and calculation methodology, resulting in an **approximately 15% reduction in estimated consumption**.
 
 * ⚙️ **Automation and data analytics** — developed solutions using Excel, Python, and Power BI to structure processes, automate analyses, and support business decisions.
 
@@ -89,9 +86,7 @@ My background combines mathematical reasoning, analytical thinking, and practica
 
 ### How I work
 
-More than mastering tools, my strength is combining mathematical reasoning, analytical thinking, and business understanding to turn problems into data-driven solutions.
-
-I aim to build structured, automated, and reliable processes — from organizing and transforming data to generating information that supports decision-making and creates business value.
+More than mastering tools, my strength is transforming business problems into **structured, automated, and reliable data engineering solutions**, combining mathematical reasoning, analytical thinking, and technical expertise.
 
 ### 💼 Featured projects
 
@@ -99,14 +94,10 @@ I aim to build structured, automated, and reliable processes — from organizing
 
 * [**marianepintoribeiro**](https://github.com/marianepintoribeiro) — Profile README and central portfolio for my data projects and studies.
 
-* **Database Modeling Portfolio** — study projects focused on data modeling, organization, and structuring for different business scenarios.
-
-* **Data Analytics Portfolio** — data analysis projects using SQL, Python, Power BI, and visualization tools to explore KPIs and generate insights.
-
 ### 🚀 Building my career in data
 
 I am building my portfolio with a focus on Data Engineering and Data Analytics, combining my Mathematics background and professional experience to develop increasingly structured, automated, and data-driven solutions.
 
 My goal is to work in environments where I can combine technology, data, quantitative reasoning, and business understanding to solve real-world problems and generate measurable impact.
 
-📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [GitHub](https://github.com/marianepintoribeiro)
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mp.ribeiro@unesp.br)

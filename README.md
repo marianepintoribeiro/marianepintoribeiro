@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mariane Ribeiro 👋
 
-<!--
-**marianepintoribeiro/marianepintoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics student at UNESP
+💻 Aspiring Data Engineer
+📊 Python | SQL | ETL/ELT | Data Modeling | Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a Mathematics student at UNESP with a strong interest in
+Data Engineering, Data Analytics and Business Intelligence.
+
+I enjoy transforming raw data into structured, reliable and
+useful information that supports business decisions.
+
+Currently, I'm building my portfolio through projects involving
+data pipelines, SQL, Python, ETL/ELT, data modeling and cloud
+data platforms.
+
+---
+
+## 🛠️ Tech Stack
+
+Python • SQL • Pandas • Airflow • Power BI
+Git • GitHub • Snowflake • Excel
+
+---
+
+## 🚀 Featured Projects
+
+📌 Data Engineering Pipeline
+📌 Database Modeling Portfolio
+📌 Sales Data Pipeline
+📌 Data Analysis Projects
+
+---
+
+## 🎓 Education
+
+Bachelor's Degree in Mathematics — UNESP
+
+---
+
+## 📫 Connect with me
+
+LinkedIn | GitHub | Email

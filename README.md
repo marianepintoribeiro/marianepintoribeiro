@@ -54,7 +54,7 @@ Estou construindo meu portfólio com foco em Engenharia de Dados e Análise de D
 
 Meu objetivo é atuar em ambientes onde eu possa combinar tecnologia, dados, raciocínio quantitativo e visão de negócio para resolver problemas reais e gerar impacto mensurável.
 
-📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mp.ribeiro@unesp.br)
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mailto:mp.ribeiro@unesp.br)
 
 ---
 
@@ -98,4 +98,4 @@ I am building my portfolio with a focus on Data Engineering and Data Analytics, 
 
 My goal is to work in environments where I can combine technology, data, quantitative reasoning, and business understanding to solve real-world problems and generate measurable impact.
 
-📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mp.ribeiro@unesp.br)
+📫 [LinkedIn](https://www.linkedin.com/in/mariane-ribeiro-data/) · [E-mail](mailto:mp.ribeiro@unesp.br)

@@ -1,10 +1,10 @@
-# Mariane Ribeiro
+                                         # Mariane Ribeiro
 
-### Data Engineer · Data Analytics
+                                  ### Data Engineer · Data Analytics
 
-[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+                         [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
----
+                    ---
 
 ## 🇧🇷 Português
 

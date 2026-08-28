@@ -1,10 +1,10 @@
-# Mariane Ribeiro
+                                                # Mariane Ribeiro
 
-Data Engineer | Data Analyst | Python | SQL | ETL/ELT
+                              Data Engineer | Data Analyst | Python | SQL | ETL/ELT
 
-🇧🇷 Português · 🇺🇸 English
+                                            🇧🇷 Português · 🇺🇸 English
 
-────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 ## 🇧🇷 Português
 

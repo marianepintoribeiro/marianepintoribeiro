@@ -39,8 +39,6 @@ Minha trajetória combina raciocínio matemático, visão analítica e experiên
 
 ### Como eu trabalho
 
-Mais do que dominar ferramentas, meu diferencial é combinar raciocínio matemático, visão analítica e entendimento de negócio para transformar problemas em soluções orientadas por dados.
-
 Mais do que dominar ferramentas, meu diferencial é transformar problemas de negócio em **soluções de engenharia de dados estruturadas, automatizadas e confiáveis**, combinando raciocínio matemático, visão analítica e conhecimento técnico.
 
 
